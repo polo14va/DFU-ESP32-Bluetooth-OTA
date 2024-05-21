@@ -2,6 +2,8 @@
 
 This repository contains the implementation of an OTA (Over-The-Air) update system for the ESP32 using Bluetooth Low Energy (BLE) with DFU capabilities. The system allows for wireless firmware updates of the ESP32 using a BLE connection, specifically designed to support the [BLEUniversal](https://github.com/polo14va/BLEUniversal) app, a universal Swift application designed to manage and edit BLE characteristics.
 
+[APP STORE LINK](https://apps.apple.com/es/app/bleuniversal/id6477699252)
+
 ## Version
 
 | Version | Description |
@@ -34,7 +36,7 @@ To run and use this project, you will need:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-github-username/esp32-ota-ble.git
+   git clone https://github.com/polo14va/DFU-ESP32-Bluetooth-OTA.git
    cd esp32-ota-ble
    ```
 
