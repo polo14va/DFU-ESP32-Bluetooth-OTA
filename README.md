@@ -1,7 +1,3 @@
-Para reflejar los cambios solicitados y proporcionar una descripción detallada y precisa del proyecto, incluida la finalidad de dar soporte a [BLEUniversal](https://github.com/polo14va/BLEUniversal) y la funcionalidad de DFU (Device Firmware Update) a través de Bluetooth, aquí tienes una versión revisada y mejorada del `README.md`.
-
----
-
 # ESP32 OTA Update via BLE/DFU
 
 This repository contains the implementation of an OTA (Over-The-Air) update system for the ESP32 using Bluetooth Low Energy (BLE) with DFU capabilities. The system allows for wireless firmware updates of the ESP32 using a BLE connection, specifically designed to support the [BLEUniversal](https://github.com/polo14va/BLEUniversal) app, a universal Swift application designed to manage and edit BLE characteristics.
@@ -126,5 +122,3 @@ To update your ESP32 firmware using DFU over Bluetooth:
 - **Usage Instructions**: Updated to include steps about compiling the firmware and loading it using devices with macOS or iOS.
 - **Detailed Functionality Descriptions**: Included BLE/DFU in descriptions to clarify that the project handles firmware updates using these protocols.
 - **Credits**: Provided your full name, website, and email for recognition and further information.
-
-This `README.md` will help users understand how to set up, compile, and use the project for OTA updates using BLE/DFU, particularly with the BLEUniversal app. If you have further requirements or adjustments, feel free to specify!
